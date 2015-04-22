@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Plugin Name: Gravity Forms Bootstrap 3 Style
- * Plugin URI: https://github.com/abrudtkuhl/WordPress-Bootstrap-Gravity-Forms
- * Description: Use Bootstrap 3 form styles with Gravity Forms
+ * Plugin Name: Twenty Fifteen Disqus Comments Style
+ * Plugin URI: https://github.com/abrudtkuhl/twentyfifteen-disqus
+ * Description: Makes Disqus look nice in the Twenty Fifteen WordPress Theme
  * Version: 0.1
  * Author: Andy Brudtkuhl
  * Author URI: http://youmetandy.com
