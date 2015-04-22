@@ -1,0 +1,18 @@
+/* CSS based on http://www.alexdresko.com/2014/12/23/fixing-disqus-in-the-wordpress-twenty-fifteen-theme/ */
+
+div#disqus_thread {
+  padding: 3% 10%;
+  background-color: white;
+  margin: 3% 0;
+  box-shadow: 0 0 1px rgba(0,0,0,0.15);
+}
+@media screen and (min-width: 38.75em) {
+  div#disqus_thread {
+    margin: 3% 7.6923%;
+  }
+}
+@media screen and (min-width: 59.6875em) {
+  div#disqus_thread {
+    margin: 3% 8.3333%;
+  }
+}
