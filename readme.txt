@@ -18,5 +18,6 @@ Inspired by http://www.alexdresko.com/2014/12/23/fixing-disqus-in-the-wordpress-
 Install and activate from the WordPress plugin repository
 
 == Changelog ==
+0.3 - finally fixing the CSS path...  
 0.2 - Fix CSS path
 0.1 - Plugin Release
