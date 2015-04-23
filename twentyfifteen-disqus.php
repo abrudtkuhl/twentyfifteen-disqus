@@ -4,7 +4,7 @@
  * Plugin Name: Twenty Fifteen Disqus Comments Style
  * Plugin URI: https://github.com/abrudtkuhl/twentyfifteen-disqus
  * Description: Makes Disqus look nice in the Twenty Fifteen WordPress Theme
- * Version: 0.2
+ * Version: 0.3
  * Author: Andy Brudtkuhl
  * Author URI: http://youmetandy.com
  */
