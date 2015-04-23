@@ -12,7 +12,7 @@
 if( ! function_exists( 'twentyfifteen_disqus' ) ) {
 
   function twentyfifteen_disqus() {
-    wp_enqueue_style( 'twentyfifteen-disqus', plugins_url( 'twentyfifteen-disqus.css' ), array(), '1.0', 'all' );
+    wp_enqueue_style( 'twentyfifteen-disqus', plugins_url( 'twentyfifteen-disqus.css', __FILE__ ), array(), '1.0', 'all' );
   }
 
   add_action( 'wp_enqueue_scripts', 'twentyfifteen_disqus' );
